@@ -6,6 +6,11 @@ manuscript.
   - **All baseline models** for comparison.
   - The proposed **HNB model**.
   - **Quick Start** instruction for training & evaluation. ----
+
+
+<img src="https://github.com/ArgentLo/HNB_Graph_Rec/blob/main/structure.png" width="720" height="192.6">
+
+
 ### Introduction
 HANABI (HNB) is a recommendation framework based on graph embedding 
 collaborative filtering, conditionally encoding the imformation flowing from 
