@@ -7,7 +7,7 @@ manuscript.
   - The proposed **HNB model**.
   - **Quick Start** instruction for training & evaluation. 
 
-<img src="https://github.com/ArgentLo/HNB_Graph_Rec/blob/main/structure.png" width="560" height="280">
+<img src="https://github.com/ArgentLo/HNB_Graph_Rec/blob/main/structure.png" width="600" height="300">
 
 
 ----
