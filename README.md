@@ -10,8 +10,10 @@ In this repository, all the following parts are included to **support reproducti
   - **Quick Start** instruction for training & evaluation.
 
 
-<img src="https://github.com/ArgentLo/HNB_Graph_Rec/blob/main/structure.png" width="600" height="300">
 
+<p align="center">
+  <img align="center" src="https://github.com/ArgentLo/HNB_Graph_Rec/blob/main/structure.png" width="600" height="300">
+</p>
 
 ----
 
