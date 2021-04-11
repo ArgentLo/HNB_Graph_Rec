@@ -1,6 +1,9 @@
 # HANABI: Graph Embedding for Recommendation via Conditional Proximity
 
-This is our implementation for the paper.
+This is our implementation for our **[paper](https://argentlo.github.io/files/3.IJCNN21-HNB-Lo-Ishigaki.pdf)**
+```
+Kachun Lo, Tsukasa Ishigaki, "Graph Embedding for Recommendation via Conditional Proximity"
+```
 
 In this repository, all the following parts are included to **support reproductivity and reliablity** of the manuscript.
 
