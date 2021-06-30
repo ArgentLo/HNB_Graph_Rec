@@ -1,8 +1,8 @@
 # HANABI: Graph Embedding for Recommendation via Conditional Proximity
 
-This is our implementation for our **[paper](https://argentlo.github.io/files/3.IJCNN21-HNB-Lo-Ishigaki.pdf)**:
+This is our implementation for our **[paper](https://argentlo.github.io/files/3.KDD21-DLG-HNB-Lo-Ishigaki.pdf)**:
 ```
-Kachun Lo, Tsukasa Ishigaki, "Intermediary Does Matter! Conditional Proximity Embedding for Recommender Systems", in IJCNN2021.
+Kachun Lo, Tsukasa Ishigaki, "Intermediary Does Matter! Conditional Proximity Embedding for Recommender Systems", in KDD2021-DLG.
 ```
 
 In this repository, all the following parts are included to **support reproductivity and reliablity** of the manuscript.
